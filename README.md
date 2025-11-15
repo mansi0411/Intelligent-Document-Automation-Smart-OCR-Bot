@@ -15,6 +15,8 @@ Using the Gemini API to analyze both the original image and the OCR-extracted te
 
 Screenshot/Example
 <img width="310" height="631" alt="Screenshot 2025-11-15 at 9 14 44 PM" src="https://github.com/user-attachments/assets/2bf3f04b-68a6-4cde-bb3a-bfd5921d395d" />
+<img width="577" height="201" alt="Screenshot 2025-11-15 at 9 15 10 PM" src="https://github.com/user-attachments/assets/c7451303-d41b-48dd-b100-0717953599c7" />
+
 
 
 Prerequisites
